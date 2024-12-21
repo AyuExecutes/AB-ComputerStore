@@ -1,6 +1,7 @@
-## AB Computer Inventory Management System
+# AB Computer Inventory Management System
+
 ## Overview
-The AB Computer Inventory Management System is a Java-based application designed to manage a catalog of computer products.
+- The AB Computer Inventory Management System is a Java-based application designed to manage a catalog of computer products.
 It provides functionalities for browsing, searching, adding, updating, and deleting records of desktop PCs, laptops, and tablets.
 The system includes user roles such as managers and salesperson, with role-based permission to access certain features.
 ---
